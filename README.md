@@ -1,6 +1,8 @@
 # PZ-9
 <img width="766" height="273" alt="image" src="https://github.com/user-attachments/assets/c3169d59-ce19-4482-9cf1-6be3b98bdda0" />
+
 #include <iostream>
+
 using namespace std;
 
 int main() {
